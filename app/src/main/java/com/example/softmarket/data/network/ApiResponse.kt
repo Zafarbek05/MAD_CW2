@@ -1,4 +1,4 @@
-package com.example.softmarket.data
+package com.example.softmarket.data.network
 
 data class ApiResponse(
     val id: Int,
